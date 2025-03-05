@@ -39,7 +39,7 @@ pip install pyqt6 matplotlib
 📥 **Code herunterladen**:
 
 ```bash
-git clone https://github.com/dein-repo/deutsch-trainer.git
+git clone [https://github.com/HerrMaschinist/Deutsch-Trainer-Pro]
 cd Deutsch Trainer Pro
 ```
 
